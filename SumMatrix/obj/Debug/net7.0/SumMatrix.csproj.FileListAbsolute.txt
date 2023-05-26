@@ -1,0 +1,15 @@
+D:\VC_Projects\SumMatrix\bin\Debug\net7.0\SumMatrix.exe
+D:\VC_Projects\SumMatrix\bin\Debug\net7.0\SumMatrix.deps.json
+D:\VC_Projects\SumMatrix\bin\Debug\net7.0\SumMatrix.runtimeconfig.json
+D:\VC_Projects\SumMatrix\bin\Debug\net7.0\SumMatrix.dll
+D:\VC_Projects\SumMatrix\bin\Debug\net7.0\SumMatrix.pdb
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\SumMatrix.csproj.AssemblyReference.cache
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\SumMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\SumMatrix.AssemblyInfoInputs.cache
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\SumMatrix.AssemblyInfo.cs
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\SumMatrix.csproj.CoreCompileInputs.cache
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\SumMatrix.dll
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\refint\SumMatrix.dll
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\SumMatrix.pdb
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\SumMatrix.genruntimeconfig.cache
+D:\VC_Projects\SumMatrix\obj\Debug\net7.0\ref\SumMatrix.dll
