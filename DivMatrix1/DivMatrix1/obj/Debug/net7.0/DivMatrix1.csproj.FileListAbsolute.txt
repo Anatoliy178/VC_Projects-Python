@@ -1,5 +1,0 @@
-D:\VC_Projects\DivMatrix1\DivMatrix1\obj\Debug\net7.0\DivMatrix1.csproj.AssemblyReference.cache
-D:\VC_Projects\DivMatrix1\DivMatrix1\obj\Debug\net7.0\DivMatrix1.GeneratedMSBuildEditorConfig.editorconfig
-D:\VC_Projects\DivMatrix1\DivMatrix1\obj\Debug\net7.0\DivMatrix1.AssemblyInfoInputs.cache
-D:\VC_Projects\DivMatrix1\DivMatrix1\obj\Debug\net7.0\DivMatrix1.AssemblyInfo.cs
-D:\VC_Projects\DivMatrix1\DivMatrix1\obj\Debug\net7.0\DivMatrix1.csproj.CoreCompileInputs.cache
